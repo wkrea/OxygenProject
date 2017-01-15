@@ -1,0 +1,96 @@
+VISTA DE LOGIN-----------------------
+Esta es la vista inicial del sistema en la que el director tendrá que introducir un usuario y contraseña para acceder
+-------------------------------------
+
+VISTA PRINCIPAL----------------------
+En esta vista se muestran los proyectos activos, la posiblidad de ordenarlos y buscarlos.
+Podemos acceder a las opciones de crear un nuevo proyecto, ver el planning de la semana, consultar el historial de proyectos, acceder al listado, edición y creación de responsables y empleados.
+Respecto a un proyecto en concreto podemos ver sus datos, cambiar el estado, registrar una medición o pedido y ver una oferta, ultimas mediciones o ultimos pedidos.
+-------------------------------------
+
+VISTA PRINCIPAL DESPLEGAR OFERTA-----
+Se despliega la ofeta correpondiente al proyecto, esto nos permite una vista general, ademas de las opciones de verla con detalle, editarla, anularla, formalizarla y generar pdf.
+-------------------------------------
+
+VISTA PRINCIPAL DESPLEGAR MEDICIONES-
+Se despliegan las mediciones correpondientes al proyecto, esto nos permite una vista general, ademas de las opciones de editarlas, anularlas, formalizarlas y generar pdf, verlas todas y compararlas con la oferta. 
+-------------------------------------
+
+VISTA PRINCIPAL DESPLEGAR PEDIDOS----
+Se despliega los pedidos correpondientes al proyecto, esto nos permite una vista general, ademas de las opciones de editarlos, eliminarlos, generar pdf y verlos todos. 
+-------------------------------------
+
+VISTA PRINCIPAL DESPLEGAR ESTADO-----
+Se despliega la opción de cambiar el estado. 
+-------------------------------------
+
+VISTA NUEVO PROYECTO-----------------
+En esta vista el cliente puede completar los distintos campos necesarios para registrar un proyecto, asi como la oferta inicial.
+Ademas puede generar el pdf de la oferta.
+-------------------------------------
+
+VISTA COMPARACIÓN--------------------
+En esta vista disponemos un comparación, mediante tabla y grafica, del numero de unidades intalades frente a las ofertadas.
+-------------------------------------
+
+VISTA DE PLANNING--------------------
+En esta vista de muestra un calendario semanal, nuestro cliente podra asignar proyectos con operarios un dia determinado. Ademas puede clonar la anterior semana y exportar el calendario a un archivo.
+-------------------------------------
+
+VISTA DE PLANNING AÑADIR-------------
+Mediante una ventana flotante seleccionamos el operario deseado para asignarlo al dia y proyecto. Podemos filtrar los operarios para facilitar la busqueda.
+-------------------------------------
+
+VISTA VER PEDIDO A PROVEEDOR---------
+En esta vista se muestran los detalles del pedido seleccionado: elemento, cantidad y valor total.
+-------------------------------------
+
+VISTA LISTA CLIENTES-----------------
+En esta vista el cliente puede administar los responsables. Todo esto incluye listarlos, editarlos, elimanarlos y crearlos.
+-------------------------------------
+
+VISTA LISTA CLIENTES NUEVOS----------
+Se despliegua el formulario de creacíon de responable. El cliente debe completar los campos para su registro.
+-------------------------------------
+
+VISTA LISTA EMPLEADOS----------------
+En esta vista el cliente puede administar los empleados. Todo esto incluye listarlos, editarlos, elimanarlos y crearlos.
+-------------------------------------
+
+VISTA CREAREDITAR PEDIDOS A PROVEEDOR
+Vista de creación o edición de un pedido y su documento pdf, donde nuestro cliente podrá introducir elementos y sus cantidades correspondientes.
+-------------------------------------
+
+VISTA CREAREDITAR MEDICION-----------
+Vista de creación o edición de una medición y su documento pdf, donde nuestro clientr podrá introducir elementos y sus cantidades. Ademas mostrara el precio unidad, el total por elemento y el total final
+-------------------------------------
+
+VISTA LISTA MEDICION-----------------
+En esta vista se muestran las mediciones del proyecto, asi como la opcion de crear nuevas o generar pdf, formalizar, editar y anular las ya existentes.
+-------------------------------------
+
+VISTA VER MEDICIÓN---------
+En esta vista se muestran los detalles de la medición seleccionada: elemento, cantidad, precio/unidad, valor total y valor final. Tambien permita anular la medición.
+-------------------------------------
+
+VISTA GENERAR-REVISAR OFERTA---------
+Vista que nos muestra las opciones aplicables a la oferta actual del proyecto. Estas opciones son: generar otra oferta, generar pdf, anular, editar y formalizar.
+-------------------------------------
+
+VISTA EDITAR OFERTA------------------
+En esta vista non permite editar la oferta perteneciente al proyecto. Podemos añadir o eliminar elementos y modificar sus cantidades.
+-------------------------------------
+
+VISTA VER OFERTA---------------------
+En esta vista se muestran los detalles de la oferta: elemento, cantidad, precio/unidad, valor total y valor final.
+------------------------------------- 
+
+VISTA PROYECTOS FINALIZADOS----------
+Esta vista nos muestra los proyectos finalizados, ademas de la posibilidad de consultar la oferta, las últimas mediciónes y los últimos pedidos.
+-------------------------------------
+
+VISTA PEDIDOS PROYECTO---------------
+En esta vista se listan los pedidos del proyecto, asi como la opción de crear nuevos o generar pdf, edirtar o eliminar los ya existentes.
+-------------------------------------
+
+
